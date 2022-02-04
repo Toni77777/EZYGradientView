@@ -14,6 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "EZYGradientView",
-            dependencies: []),
+            dependencies: [],
+            path: "EZYGradientView"),
     ]
 )
